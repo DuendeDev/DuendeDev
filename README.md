@@ -42,7 +42,7 @@ Atualmente estou focado em desenvolvimento, lógica de programação e criação
 
 ### 🏃 Jogo 2D — Unity
 
-Meu projeto de jogo 2D desenvolvido na Unity.
+Meu projeto de jogo 2D está sendo desenvolvido na Unity.
 
 A ideia é criar um jogo de plataforma com:
 
